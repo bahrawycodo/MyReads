@@ -1,7 +1,6 @@
 # MyReads Project
 
-
-Udacity React Project
+# Udacity React Project
 To get started developing right away:
 
 - install all project dependencies with `npm install`
